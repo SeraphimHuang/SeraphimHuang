@@ -34,6 +34,8 @@
 
    </details>
 
+   ---
+
 - **NLP-Powered Prospectus Payment Extraction**  
    Employed RNN and LSTM for mortgage-backed security prospectus payment structure extraction.
    <details>
