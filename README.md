@@ -22,7 +22,7 @@
 
   #### AI/ML/NLP
 
-1. **D3QN-Based Reinforcement Learning for Texas Hold'em Strategy**  
+- **D3QN-Based Reinforcement Learning for Texas Hold'em Strategy**  
    Developed a Reinforcement Learning model based on D3QN for Texas Hold'em strategies.
 
    <details>
@@ -34,7 +34,7 @@
 
    </details>
 
-2. **NLP-Powered Prospectus Payment Extraction**  
+- **NLP-Powered Prospectus Payment Extraction**  
    Employed RNN and LSTM for mortgage-backed security prospectus payment structure extraction.
    <details>
    <summary>More</summary>
@@ -45,7 +45,7 @@
 
    </details>
 
-3. **Distributed Machine Learning for Loan Default Prediction**  
+- **Distributed Machine Learning for Loan Default Prediction**  
    Developed a distributed machine learning pipeline using PySpark to predict mortgage default risk.
    <details>
    <summary>More</summary>
@@ -57,9 +57,8 @@
    </details>
 
 #### Web Development
-1. **Photography Equipment E-commerce**  
-   Developed an e-commerce platform for photography equipment, adopting a microservices architecture and utilizing Node.js, Go, Spring Boot, Flask, and Kotlin to implement user authentication, product catalog, order processing, and
-payment functionalities.
+- **Photography Equipment E-commerce**  
+   Developed an e-commerce platform for photography equipment, adopting a microservices architecture and utilizing Node.js, Go, Spring Boot, Flask, and Kotlin to implement user authentication, product catalog, order processing, and payment functionalities.
    <details>
    <summary>More</summary>
 
@@ -71,7 +70,7 @@ payment functionalities.
    </details>
 
 #### Quant Finance
-1. **ML-Enhanced Delta-Hedging Arbitrage**  
+- **ML-Enhanced Delta-Hedging Arbitrage**  
    Designed a delta-hedging arbitrage strategy and applied machine learning to enhance a synthetic options strategy.
    <details>
    <summary>More</summary>
