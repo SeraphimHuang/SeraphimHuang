@@ -20,9 +20,9 @@
 ### Projects
   List below are some of the projects I've done before.
 
-  #### AI/ML/NLP
+  - AI/ML/NLP
 
-- **D3QN-Based Reinforcement Learning for Texas Hold'em Strategy**  
+   - **D3QN-Based Reinforcement Learning for Texas Hold'em Strategy**  
    Developed a Reinforcement Learning model based on D3QN for Texas Hold'em strategies.
 
    <details>
