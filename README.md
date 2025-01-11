@@ -1,8 +1,6 @@
 ## Hi there, I am Ziye Huang (Seraphim) 👋
 
-![Website Badge](https://img.shields.io/badge/-[CONNECT @ZIYEHUANG]-blue?style=flat&logo=website&link=[https://www.linkedin.com/in/ziyehuang/])
-
-I'm a [your profession or title], passionate about [your interests or goals].
+I'm passionate about applying ML and AI to make a better world and am actively seeking SDE, MLE and Quant Research jobs.
 
 - 👨‍💻 I’m currently working on: [Your Current Project]
 - 🌱 I’m learning: [Skills or Technologies you're learning]
