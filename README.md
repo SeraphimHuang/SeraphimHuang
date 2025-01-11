@@ -12,7 +12,7 @@
 
 ---
 
-### 🌟 Latest Writings
+### 📕 Latest Writings
 - [Examining the Commitments and Difficulties Inherent in Multimodal Foundation Models for Street View Imagery](https://arxiv.org/abs/2408.12821)
 
 
