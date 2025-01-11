@@ -34,8 +34,6 @@
 
    </details>
 
-   ---
-
 - **NLP-Powered Prospectus Payment Extraction**  
    Employed RNN and LSTM for mortgage-backed security prospectus payment structure extraction.
    <details>
@@ -58,6 +56,8 @@
 
    </details>
 
+---
+
 #### Web Development
 - **Photography Equipment E-commerce**  
    Developed an e-commerce platform for photography equipment, adopting a microservices architecture and utilizing Node.js, Go, Spring Boot, Flask, and Kotlin to implement user authentication, product catalog, order processing, and payment functionalities.
@@ -70,6 +70,8 @@
    - Created an asynchronous notification service with Kotlin and Redis for real-time email and SMS notifications.
 
    </details>
+
+---
 
 #### Quant Finance
 - **ML-Enhanced Delta-Hedging Arbitrage**  
