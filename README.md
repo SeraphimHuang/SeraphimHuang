@@ -4,18 +4,17 @@
 
 - 👨‍💻 I’m actively seeking SDE, MLE and Quant Research jobs
 - 🌱 Outside of study, I love cubes, badminton, and video games.
-- 📫 How to reach me: [huang.ziye@northeastern.edu]
+- 📫 2025 goals: AI and exercise, do models!
+
+### 📱 Connect with me
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/SeraphimHuang)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ziyehuang)
 
 ---
 
 ### 🌟 Latest Writings
 - [Examining the Commitments and Difficulties Inherent in Multimodal Foundation Models for Street View Imagery](https://arxiv.org/abs/2408.12821)
 
----
-
-### 📱 Connect with me
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/SeraphimHuang)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ziyehuang)
 
 <!--
 **SeraphimHuang/SeraphimHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
