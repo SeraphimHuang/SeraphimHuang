@@ -1,6 +1,6 @@
 ## Hi there, I am Ziye Huang (Seraphim) 👋
 
-![Website Badge](https://img.shields.io/badge/-[Your Website Name]-blue?style=flat&logo=website&link=[YourWebsiteLink])
+![Website Badge](https://img.shields.io/badge/-[CONNECT @ZIYEHUANG]-blue?style=flat&logo=website&link=[https://www.linkedin.com/in/ziyehuang/])
 
 I'm a [your profession or title], passionate about [your interests or goals].
 
