@@ -3,8 +3,8 @@
 **I'm a passionate about applying ML and AI to make a better world.**
 
 - 👨‍💻 I’m actively seeking SDE, MLE and Quant Research jobs
-- 🌱 Outside of study, I love cubes, badminton, and video games.
-- 📫 2025 goals: AI and exercise, do models!
+- 🏂 Outside of study, I love cubes, badminton, and video games.
+- 🎯 2025 goals: AI and exercise, do models!
 
 ### 📱 Connect with me
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/SeraphimHuang)
