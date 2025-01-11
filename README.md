@@ -1,6 +1,6 @@
 ## Hi there, I am Ziye Huang (Seraphim) 👋
 
-I'm passionate about applying ML and AI to make a better world and am actively seeking SDE, MLE and Quant Research jobs.
+**I'm passionate about applying ML and AI to make a better world and am actively seeking SDE, MLE and Quant Research jobs.**
 
 - 👨‍💻 I’m currently working on: [Your Current Project]
 - 🌱 I’m learning: [Skills or Technologies you're learning]
