@@ -15,8 +15,7 @@
 
 ### 📱 Connect with me
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ziyehuang)
 
 <!--
 **SeraphimHuang/SeraphimHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
