@@ -1,11 +1,10 @@
 ## Hi there, I am Ziye Huang (Seraphim) 👋
 
-**I'm passionate about applying ML and AI to make a better world and am actively seeking SDE, MLE and Quant Research jobs.**
+**I'm a passionate about applying ML and AI to make a better world.**
 
-- 👨‍💻 I’m currently working on: [Your Current Project]
-- 🌱 I’m learning: [Skills or Technologies you're learning]
-- 📫 How to reach me: [Your email or social links]
-- ⚡ Fun fact: [A fun or quirky fact about you]
+- 👨‍💻 I’m actively seeking SDE, MLE and Quant Research jobs
+- 🌱 Outside of study, I love cubes, badminton, and video games.
+- 📫 How to reach me: [huang.ziye@northeastern.edu]
 
 ---
 
