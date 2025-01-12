@@ -18,7 +18,7 @@
 ---
 
 ### Projects
-  List below are some of the projects I've done before.
+  Here are some of the projects I've done before.
 
   #### AI/ML/NLP
 
