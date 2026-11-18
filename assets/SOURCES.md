@@ -17,4 +17,4 @@ Company icon paths are preserved within equal-sized SVG canvases. The Berkeley a
 
 Typing-banner generation URL:
 
-https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=65&lines=Hi+%F0%9F%91%8B+I%27m+Ziye+%28Seraphim%29+Huang%3BMSCS+%40+Northeastern+%C2%B7+MFE+%40+PKU%3BAI%2FML+Engineer+%C2%B7+LLMs+%26+Agentic+AI%3BBuilding+AI+Tools+%26+Evaluation+Infra%3BLife+finds+a+way.+So+do+models.
+https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=65&lines=Hi+%F0%9F%91%8B+I%27m+Ziye+%28Seraphim%29+Huang%3BMSCS+%40+Northeastern+%C2%B7+MFE+%40+PKU%3BAI%2FML+Engineer+%C2%B7+LLMs+%26+Agentic+AI%3BBuilding+AI+Tools+%26+Evaluation+Infra%3BLife+will+find+its+way.+So+do+models.

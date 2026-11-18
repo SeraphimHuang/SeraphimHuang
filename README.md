@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/typing-banner.svg" alt="Hi 👋 I&#x27;m Ziye (Seraphim) Huang | MSCS @ Northeastern · MFE @ PKU | AI/ML Engineer · LLMs &amp; Agentic AI | Building AI Tools &amp; Evaluation Infra | Life finds a way. So do models." width="640">
+  <img src="assets/typing-banner.svg" alt="Hi 👋 I&#x27;m Ziye (Seraphim) Huang | MSCS @ Northeastern · MFE @ PKU | AI/ML Engineer · LLMs &amp; Agentic AI | Building AI Tools &amp; Evaluation Infra | Life will find its way. So do models." width="640">
 </h1>
 
 <p align="center">
