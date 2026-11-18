@@ -41,63 +41,63 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center" rowspan="1"><strong>LLM Applications &amp; Inference</strong></td>
-      <td align="center" width="72"><img src="assets/tools/langchain.svg" alt="LangChain" width="40" height="40"><br><sub>LangChain</sub></td>
-      <td align="center" width="72"><img src="assets/tools/llamaindex.svg" alt="LlamaIndex" width="40" height="40"><br><sub>LlamaIndex</sub></td>
-      <td align="center" width="72"><img src="assets/tools/vllm.svg" alt="vLLM" width="40" height="40"><br><sub>vLLM</sub></td>
-      <td align="center" width="72"><img src="assets/tools/ollama.svg" alt="Ollama" width="40" height="40"><br><sub>Ollama</sub></td>
-      <td align="center" width="72"><img src="assets/tools/openai-api.svg" alt="OpenAI API" width="40" height="40"><br><sub>OpenAI API</sub></td>
-      <td align="center" width="72"><img src="assets/tools/anthropic-api.svg" alt="Anthropic API" width="40" height="40"><br><sub>Anthropic API</sub></td>
+      <td align="center"><strong>LLMs &amp; Agents</strong></td>
+      <td align="center" width="48"><img src="assets/tools/langchain.svg" alt="LangChain" title="LangChain" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/llamaindex.svg" alt="LlamaIndex" title="LlamaIndex" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/vllm.svg" alt="vLLM" title="vLLM" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/ollama.svg" alt="Ollama" title="Ollama" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/openai-api.svg" alt="OpenAI API" title="OpenAI API" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/anthropic-api.svg" alt="Anthropic API" title="Anthropic API" width="40" height="40"></td>
     </tr>
     <tr>
-      <td align="center" rowspan="2"><strong>Models &amp; Training</strong></td>
-      <td align="center" width="72"><img src="assets/tools/pytorch.svg" alt="PyTorch" width="40" height="40"><br><sub>PyTorch</sub></td>
-      <td align="center" width="72"><img src="assets/tools/tensorflow.svg" alt="TensorFlow" width="40" height="40"><br><sub>TensorFlow</sub></td>
-      <td align="center" width="72"><img src="assets/tools/transformers.svg" alt="Transformers" width="40" height="40"><br><sub>Transformers</sub></td>
-      <td align="center" width="72"><img src="assets/tools/scikit-learn.svg" alt="scikit-learn" width="40" height="40"><br><sub>scikit-learn</sub></td>
-      <td align="center" width="72"><img src="assets/tools/jax.svg" alt="JAX" width="40" height="40"><br><sub>JAX</sub></td>
-      <td align="center" width="72"><img src="assets/tools/deepspeed.svg" alt="DeepSpeed" width="40" height="40"><br><sub>DeepSpeed</sub></td>
+      <td align="center"><strong>Models &amp; Training</strong></td>
+      <td align="center" width="48"><img src="assets/tools/pytorch.svg" alt="PyTorch" title="PyTorch" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/tensorflow.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/transformers.svg" alt="Transformers" title="Transformers" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/scikit-learn.svg" alt="scikit-learn" title="scikit-learn" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/jax.svg" alt="JAX" title="JAX" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/lightning.svg" alt="Lightning" title="Lightning" width="40" height="40"></td>
     </tr>
     <tr>
-      <td align="center" width="72"><img src="assets/tools/lightning.svg" alt="Lightning" width="40" height="40"><br><sub>Lightning</sub></td>
-      <td align="center" width="72"><img src="assets/tools/peft---lora.svg" alt="PEFT / LoRA" width="40" height="40"><br><sub>PEFT / LoRA</sub></td>
-      <td colspan="4"></td>
+      <td align="center"><strong>Fine-tuning &amp; Scale</strong></td>
+      <td align="center" width="48"><img src="assets/tools/peft---lora.svg" alt="PEFT / LoRA" title="PEFT / LoRA" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/deepspeed.svg" alt="DeepSpeed" title="DeepSpeed" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/ray.svg" alt="Ray" title="Ray" width="40" height="40"></td>
+      <td colspan="3"></td>
     </tr>
     <tr>
-      <td align="center" rowspan="2"><strong>Data, Experiments &amp; Retrieval</strong></td>
-      <td align="center" width="72"><img src="assets/tools/numpy.svg" alt="NumPy" width="40" height="40"><br><sub>NumPy</sub></td>
-      <td align="center" width="72"><img src="assets/tools/pandas.svg" alt="pandas" width="40" height="40"><br><sub>pandas</sub></td>
-      <td align="center" width="72"><img src="assets/tools/jupyter.svg" alt="Jupyter" width="40" height="40"><br><sub>Jupyter</sub></td>
-      <td align="center" width="72"><img src="assets/tools/mlflow.svg" alt="MLflow" width="40" height="40"><br><sub>MLflow</sub></td>
-      <td align="center" width="72"><img src="assets/tools/weights---biases.svg" alt="Weights & Biases" width="40" height="40"><br><sub>Weights & Biases</sub></td>
-      <td align="center" width="72"><img src="assets/tools/ray.svg" alt="Ray" width="40" height="40"><br><sub>Ray</sub></td>
+      <td align="center"><strong>Data &amp; Retrieval</strong></td>
+      <td align="center" width="48"><img src="assets/tools/numpy.svg" alt="NumPy" title="NumPy" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/pandas.svg" alt="pandas" title="pandas" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/jupyter.svg" alt="Jupyter" title="Jupyter" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/mlflow.svg" alt="MLflow" title="MLflow" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/weights---biases.svg" alt="Weights & Biases" title="Weights & Biases" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/faiss.svg" alt="FAISS" title="FAISS" width="40" height="40"></td>
     </tr>
     <tr>
-      <td align="center" width="72"><img src="assets/tools/faiss.svg" alt="FAISS" width="40" height="40"><br><sub>FAISS</sub></td>
-      <td colspan="5"></td>
-    </tr>
-    <tr>
-      <td align="center" rowspan="1"><strong>Languages</strong></td>
-      <td align="center" width="72"><img src="assets/tools/python.svg" alt="Python" width="40" height="40"><br><sub>Python</sub></td>
-      <td align="center" width="72"><img src="assets/tools/java.svg" alt="Java" width="40" height="40"><br><sub>Java</sub></td>
-      <td align="center" width="72"><img src="assets/tools/javascript.svg" alt="JavaScript" width="40" height="40"><br><sub>JavaScript</sub></td>
-      <td align="center" width="72"><img src="assets/tools/go.svg" alt="Go" width="40" height="40"><br><sub>Go</sub></td>
-      <td align="center" width="72"><img src="assets/tools/kotlin.svg" alt="Kotlin" width="40" height="40"><br><sub>Kotlin</sub></td>
+      <td align="center"><strong>Languages</strong></td>
+      <td align="center" width="48"><img src="assets/tools/python.svg" alt="Python" title="Python" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/java.svg" alt="Java" title="Java" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/go.svg" alt="Go" title="Go" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/kotlin.svg" alt="Kotlin" title="Kotlin" width="40" height="40"></td>
       <td colspan="1"></td>
     </tr>
     <tr>
-      <td align="center" rowspan="2"><strong>Infrastructure &amp; Frameworks</strong></td>
-      <td align="center" width="72"><img src="assets/tools/spark.svg" alt="Spark" width="40" height="40"><br><sub>Spark</sub></td>
-      <td align="center" width="72"><img src="assets/tools/hadoop.svg" alt="Hadoop" width="40" height="40"><br><sub>Hadoop</sub></td>
-      <td align="center" width="72"><img src="assets/tools/docker.svg" alt="Docker" width="40" height="40"><br><sub>Docker</sub></td>
-      <td align="center" width="72"><img src="assets/tools/kubernetes.svg" alt="Kubernetes" width="40" height="40"><br><sub>Kubernetes</sub></td>
-      <td align="center" width="72"><img src="assets/tools/flask.svg" alt="Flask" width="40" height="40"><br><sub>Flask</sub></td>
-      <td align="center" width="72"><img src="assets/tools/spring.svg" alt="Spring" width="40" height="40"><br><sub>Spring</sub></td>
+      <td align="center"><strong>Infrastructure</strong></td>
+      <td align="center" width="48"><img src="assets/tools/spark.svg" alt="Spark" title="Spark" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/hadoop.svg" alt="Hadoop" title="Hadoop" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/docker.svg" alt="Docker" title="Docker" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"></td>
+      <td colspan="2"></td>
     </tr>
     <tr>
-      <td align="center" width="72"><img src="assets/tools/node-js.svg" alt="Node.js" width="40" height="40"><br><sub>Node.js</sub></td>
-      <td align="center" width="72"><img src="assets/tools/git.svg" alt="Git" width="40" height="40"><br><sub>Git</sub></td>
-      <td colspan="4"></td>
+      <td align="center"><strong>Frameworks &amp; Tools</strong></td>
+      <td align="center" width="48"><img src="assets/tools/flask.svg" alt="Flask" title="Flask" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/spring.svg" alt="Spring" title="Spring" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/node-js.svg" alt="Node.js" title="Node.js" width="40" height="40"></td>
+      <td align="center" width="48"><img src="assets/tools/git.svg" alt="Git" title="Git" width="40" height="40"></td>
+      <td colspan="2"></td>
     </tr>
   </tbody>
 </table>
