@@ -89,7 +89,7 @@
 ## `>_` Experience
 
 <p>
-  <img align="left" src="assets/organizations/google.svg" alt="Google" width="44" height="44" hspace="12">
+  <img align="left" src="assets/organizations/google-row.svg" alt="Google" width="44" hspace="12">
   <strong>Google</strong> · Software Intern<br>
   AI / Evaluation Infrastructure<br>
   <sub>Jun–Aug 2026 · Shanghai</sub>
@@ -97,7 +97,7 @@
 <br clear="left">
 
 <p>
-  <img align="left" src="assets/organizations/stripe.svg" alt="Stripe" width="44" height="44" hspace="12">
+  <img align="left" src="assets/organizations/stripe-row.svg" alt="Stripe" width="44" hspace="12">
   <strong>Stripe</strong> · Software Intern<br>
   Authorization Infrastructure<br>
   <sub>Jan–May 2026 · Seattle</sub>
@@ -105,21 +105,21 @@
 <br clear="left">
 
 <p>
-  <img align="left" src="assets/organizations/apple.svg" alt="Apple" width="44" height="44" hspace="12">
+  <img align="left" src="assets/organizations/apple-row.svg" alt="Apple" width="44" hspace="12">
   <strong>Apple</strong> · Machine Learning Engineer<br>
   <sub>Jun–Sep 2025 · Beijing</sub>
 </p>
 <br clear="left">
 
 <p>
-  <img align="left" src="assets/organizations/luoshu.jpg" alt="Luoshu Investment" width="44" height="44" hspace="12">
+  <img align="left" src="assets/organizations/luoshu-row.svg" alt="Luoshu Investment" width="44" hspace="12">
   <strong>Luoshu Investment</strong> · Quant Developer<br>
   <sub>Jul–Oct 2023 · Shanghai</sub>
 </p>
 <br clear="left">
 
 <p>
-  <img align="left" src="assets/organizations/berkeley.svg" alt="UC Berkeley · CDAR Lab" width="44" height="44" hspace="12">
+  <img align="left" src="assets/organizations/berkeley-row.svg" alt="UC Berkeley · CDAR Lab" width="44" hspace="12">
   <strong>UC Berkeley · CDAR Lab</strong> · Research Assistant<br>
   NLP<br>
   <sub>2019–2020 · Berkeley</sub>
