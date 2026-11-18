@@ -266,4 +266,3 @@ Currently into **bouldering**. Also a fan of cubes, badminton, and video games.
 <a href="INSTAGRAM_PROFILE_URL"><img src="assets/badges/instagram.svg" alt="Instagram" title="Instagram" height="28"></a>
 <a href="XIAOHONGSHU_PROFILE_URL"><img src="assets/badges/xiaohongshu.svg" alt="Xiaohongshu" title="Xiaohongshu" height="28"></a>
 -->
-
