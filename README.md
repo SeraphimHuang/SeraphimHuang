@@ -13,20 +13,20 @@
 
 <table width="100%">
   <tr>
-    <td width="75%"><strong>Google</strong><br>Software Intern · AI / Evaluation Infrastructure</td>
-    <td align="right">Jun–Aug&nbsp;2026<br><sub>Shanghai</sub></td>
+    <td width="680"><strong>Google</strong><br>Software Intern · AI / Evaluation Infrastructure</td>
+    <td width="160" align="right">Jun&nbsp;–&nbsp;Aug&nbsp;2026<br><sub>Shanghai</sub></td>
   </tr>
   <tr>
     <td><strong>Stripe</strong><br>Software Intern · Authorization Infrastructure</td>
-    <td align="right">Jan–May&nbsp;2026<br><sub>Seattle</sub></td>
+    <td align="right">Jan&nbsp;–&nbsp;May&nbsp;2026<br><sub>Seattle</sub></td>
   </tr>
   <tr>
     <td><strong>Apple</strong><br>Machine Learning Engineer</td>
-    <td align="right">Jun–Sep&nbsp;2025<br><sub>China</sub></td>
+    <td align="right">Jun&nbsp;–&nbsp;Sep&nbsp;2025<br><sub>China</sub></td>
   </tr>
   <tr>
     <td><strong>Luoshu Investment</strong><br>Quant Developer</td>
-    <td align="right">Jul–Oct&nbsp;2023<br><sub>Shanghai</sub></td>
+    <td align="right">Jul&nbsp;–&nbsp;Oct&nbsp;2023<br><sub>Shanghai</sub></td>
   </tr>
   <tr>
     <td><strong>UC Berkeley · CDAR Lab</strong><br>Research Assistant · NLP</td>
