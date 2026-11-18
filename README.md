@@ -1,10 +1,24 @@
 <h1 align="center">
-  <img src="assets/typing-banner.svg" alt="MSCS @ Northeastern · MFE @ PKU | AI/ML Engineer · LLMs &amp; Agentic AI | Building AI Tools &amp; Evaluation Infra | Life finds a way. So do models." width="640">
+  <img src="assets/typing-banner.svg" alt="Hi 👋 I&#x27;m Ziye (Seraphim) Huang | MSCS @ Northeastern · MFE @ PKU | AI/ML Engineer · LLMs &amp; Agentic AI | Building AI Tools &amp; Evaluation Infra | Life finds a way. So do models." width="640">
 </h1>
 
 <p align="center">
+  🎓 MSCS @ Northeastern University · Master of Financial Engineering @ Peking University<br>
+  🧠 Building with LLMs · Agentic AI · RAG · Fine-tuning · Evaluation<br>
+  💻 Previously @ Google, Stripe &amp; Apple<br>
+  📧 <a href="mailto:ziyehuangc@gmail.com">ziyehuangc@gmail.com</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SeraphimHuang"><img src="https://komarev.com/ghpvc/?username=SeraphimHuang&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile views"></a>
+  <a href="https://github.com/SeraphimHuang?tab=followers"><img src="https://img.shields.io/github/followers/SeraphimHuang?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=2eb85c" alt="GitHub followers"></a>
+  <a href="https://github.com/SeraphimHuang?tab=repositories"><img src="https://img.shields.io/github/stars/SeraphimHuang?affiliations=OWNER&amp;style=for-the-badge&amp;logo=github&amp;label=Stars&amp;color=f39c12" alt="GitHub stars"></a>
+</p>
+
+
+<p align="center">
   <a href="#focus">Focus</a> ·
-  <a href="#tools">LLMs &amp; Tools</a> ·
+  <a href="#tools">Languages &amp; Tools</a> ·
   <a href="#experience">Experience</a> ·
   <a href="#education">Education</a> ·
   <a href="#projects">Projects</a> ·
@@ -22,66 +36,71 @@
 
 <a id="tools"></a>
 
-## 👨🏻‍💻 LLMs & Tools
+## 👨🏻‍💻 Languages and Tools
 
-**LLM Applications & Inference**
-
-<p>
-  <img src="assets/badges/langchain.svg" alt="LangChain" title="LangChain" height="28">
-  <img src="assets/badges/llamaindex.svg" alt="LlamaIndex" title="LlamaIndex" height="28">
-  <img src="assets/badges/vllm.svg" alt="vLLM" title="vLLM" height="28">
-  <img src="assets/badges/ollama.svg" alt="Ollama" title="Ollama" height="28">
-  <img src="assets/badges/openai-api.svg" alt="OpenAI API" title="OpenAI API" height="28">
-  <img src="assets/badges/anthropic-api.svg" alt="Anthropic API" title="Anthropic API" height="28">
-</p>
-
-**Models & Training**
-
-<p>
-  <img src="assets/badges/pytorch.svg" alt="PyTorch" title="PyTorch" height="28">
-  <img src="assets/badges/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="28">
-  <img src="assets/badges/transformers.svg" alt="Transformers" title="Transformers" height="28">
-  <img src="assets/badges/scikit-learn.svg" alt="scikit-learn" title="scikit-learn" height="28">
-  <img src="assets/badges/jax.svg" alt="JAX" title="JAX" height="28">
-  <img src="assets/badges/deepspeed.svg" alt="DeepSpeed" title="DeepSpeed" height="28">
-  <img src="assets/badges/lightning.svg" alt="Lightning" title="Lightning" height="28">
-  <img src="assets/badges/peft---lora.svg" alt="PEFT / LoRA" title="PEFT / LoRA" height="28">
-</p>
-
-**Data, Experiments & Retrieval**
-
-<p>
-  <img src="assets/badges/numpy.svg" alt="NumPy" title="NumPy" height="28">
-  <img src="assets/badges/pandas.svg" alt="pandas" title="pandas" height="28">
-  <img src="assets/badges/jupyter.svg" alt="Jupyter" title="Jupyter" height="28">
-  <img src="assets/badges/mlflow.svg" alt="MLflow" title="MLflow" height="28">
-  <img src="assets/badges/weights---biases.svg" alt="Weights & Biases" title="Weights & Biases" height="28">
-  <img src="assets/badges/ray.svg" alt="Ray" title="Ray" height="28">
-  <img src="assets/badges/faiss.svg" alt="FAISS" title="FAISS" height="28">
-</p>
-
-**Languages**
-
-<p>
-  <img src="assets/badges/python.svg" alt="Python" title="Python" height="28">
-  <img src="assets/badges/java.svg" alt="Java" title="Java" height="28">
-  <img src="assets/badges/javascript.svg" alt="JavaScript" title="JavaScript" height="28">
-  <img src="assets/badges/go.svg" alt="Go" title="Go" height="28">
-  <img src="assets/badges/kotlin.svg" alt="Kotlin" title="Kotlin" height="28">
-</p>
-
-**Infrastructure & Frameworks**
-
-<p>
-  <img src="assets/badges/spark.svg" alt="Spark" title="Spark" height="28">
-  <img src="assets/badges/hadoop.svg" alt="Hadoop" title="Hadoop" height="28">
-  <img src="assets/badges/docker.svg" alt="Docker" title="Docker" height="28">
-  <img src="assets/badges/kubernetes.svg" alt="Kubernetes" title="Kubernetes" height="28">
-  <img src="assets/badges/flask.svg" alt="Flask" title="Flask" height="28">
-  <img src="assets/badges/spring.svg" alt="Spring" title="Spring" height="28">
-  <img src="assets/badges/node-js.svg" alt="Node.js" title="Node.js" height="28">
-  <img src="assets/badges/git.svg" alt="Git" title="Git" height="28">
-</p>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center" rowspan="1"><strong>LLM Applications &amp; Inference</strong></td>
+      <td align="center" width="72"><img src="assets/tools/langchain.svg" alt="LangChain" width="40" height="40"><br><sub>LangChain</sub></td>
+      <td align="center" width="72"><img src="assets/tools/llamaindex.svg" alt="LlamaIndex" width="40" height="40"><br><sub>LlamaIndex</sub></td>
+      <td align="center" width="72"><img src="assets/tools/vllm.svg" alt="vLLM" width="40" height="40"><br><sub>vLLM</sub></td>
+      <td align="center" width="72"><img src="assets/tools/ollama.svg" alt="Ollama" width="40" height="40"><br><sub>Ollama</sub></td>
+      <td align="center" width="72"><img src="assets/tools/openai-api.svg" alt="OpenAI API" width="40" height="40"><br><sub>OpenAI API</sub></td>
+      <td align="center" width="72"><img src="assets/tools/anthropic-api.svg" alt="Anthropic API" width="40" height="40"><br><sub>Anthropic API</sub></td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="2"><strong>Models &amp; Training</strong></td>
+      <td align="center" width="72"><img src="assets/tools/pytorch.svg" alt="PyTorch" width="40" height="40"><br><sub>PyTorch</sub></td>
+      <td align="center" width="72"><img src="assets/tools/tensorflow.svg" alt="TensorFlow" width="40" height="40"><br><sub>TensorFlow</sub></td>
+      <td align="center" width="72"><img src="assets/tools/transformers.svg" alt="Transformers" width="40" height="40"><br><sub>Transformers</sub></td>
+      <td align="center" width="72"><img src="assets/tools/scikit-learn.svg" alt="scikit-learn" width="40" height="40"><br><sub>scikit-learn</sub></td>
+      <td align="center" width="72"><img src="assets/tools/jax.svg" alt="JAX" width="40" height="40"><br><sub>JAX</sub></td>
+      <td align="center" width="72"><img src="assets/tools/deepspeed.svg" alt="DeepSpeed" width="40" height="40"><br><sub>DeepSpeed</sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="72"><img src="assets/tools/lightning.svg" alt="Lightning" width="40" height="40"><br><sub>Lightning</sub></td>
+      <td align="center" width="72"><img src="assets/tools/peft---lora.svg" alt="PEFT / LoRA" width="40" height="40"><br><sub>PEFT / LoRA</sub></td>
+      <td colspan="4"></td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="2"><strong>Data, Experiments &amp; Retrieval</strong></td>
+      <td align="center" width="72"><img src="assets/tools/numpy.svg" alt="NumPy" width="40" height="40"><br><sub>NumPy</sub></td>
+      <td align="center" width="72"><img src="assets/tools/pandas.svg" alt="pandas" width="40" height="40"><br><sub>pandas</sub></td>
+      <td align="center" width="72"><img src="assets/tools/jupyter.svg" alt="Jupyter" width="40" height="40"><br><sub>Jupyter</sub></td>
+      <td align="center" width="72"><img src="assets/tools/mlflow.svg" alt="MLflow" width="40" height="40"><br><sub>MLflow</sub></td>
+      <td align="center" width="72"><img src="assets/tools/weights---biases.svg" alt="Weights & Biases" width="40" height="40"><br><sub>Weights & Biases</sub></td>
+      <td align="center" width="72"><img src="assets/tools/ray.svg" alt="Ray" width="40" height="40"><br><sub>Ray</sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="72"><img src="assets/tools/faiss.svg" alt="FAISS" width="40" height="40"><br><sub>FAISS</sub></td>
+      <td colspan="5"></td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="1"><strong>Languages</strong></td>
+      <td align="center" width="72"><img src="assets/tools/python.svg" alt="Python" width="40" height="40"><br><sub>Python</sub></td>
+      <td align="center" width="72"><img src="assets/tools/java.svg" alt="Java" width="40" height="40"><br><sub>Java</sub></td>
+      <td align="center" width="72"><img src="assets/tools/javascript.svg" alt="JavaScript" width="40" height="40"><br><sub>JavaScript</sub></td>
+      <td align="center" width="72"><img src="assets/tools/go.svg" alt="Go" width="40" height="40"><br><sub>Go</sub></td>
+      <td align="center" width="72"><img src="assets/tools/kotlin.svg" alt="Kotlin" width="40" height="40"><br><sub>Kotlin</sub></td>
+      <td colspan="1"></td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="2"><strong>Infrastructure &amp; Frameworks</strong></td>
+      <td align="center" width="72"><img src="assets/tools/spark.svg" alt="Spark" width="40" height="40"><br><sub>Spark</sub></td>
+      <td align="center" width="72"><img src="assets/tools/hadoop.svg" alt="Hadoop" width="40" height="40"><br><sub>Hadoop</sub></td>
+      <td align="center" width="72"><img src="assets/tools/docker.svg" alt="Docker" width="40" height="40"><br><sub>Docker</sub></td>
+      <td align="center" width="72"><img src="assets/tools/kubernetes.svg" alt="Kubernetes" width="40" height="40"><br><sub>Kubernetes</sub></td>
+      <td align="center" width="72"><img src="assets/tools/flask.svg" alt="Flask" width="40" height="40"><br><sub>Flask</sub></td>
+      <td align="center" width="72"><img src="assets/tools/spring.svg" alt="Spring" width="40" height="40"><br><sub>Spring</sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="72"><img src="assets/tools/node-js.svg" alt="Node.js" width="40" height="40"><br><sub>Node.js</sub></td>
+      <td align="center" width="72"><img src="assets/tools/git.svg" alt="Git" width="40" height="40"><br><sub>Git</sub></td>
+      <td colspan="4"></td>
+    </tr>
+  </tbody>
+</table>
 
 <a id="experience"></a>
 
@@ -140,7 +159,7 @@
 <p>
   <img align="left" src="assets/organizations/pku-row.svg" alt="Peking University" width="44" hspace="12">
   <strong>Peking University</strong> · Guanghua School of Management<br>
-  MFE<br>
+  Master of Financial Engineering<br>
   <sub>Sep 2022–Jun 2024</sub>
 </p>
 <br clear="left">
