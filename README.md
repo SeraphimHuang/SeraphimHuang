@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 MSCS @ Northeastern University · Master of Financial Engineering @ Peking University<br>
-  🧠 Building with LLMs · Agentic AI · RAG · Fine-tuning · Evaluation<br>
+  ✨ Building with LLMs · Agentic AI · RAG · Fine-tuning · Evaluation<br>
   💻 Previously @ Google, Stripe &amp; Apple<br>
   📧 <a href="mailto:ziyehuangc@gmail.com">ziyehuangc@gmail.com</a>
 </p>
