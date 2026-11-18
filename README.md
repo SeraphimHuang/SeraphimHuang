@@ -1,56 +1,148 @@
-<h1 align="center">Hi, I'm Ziye Huang 👋</h1>
-<p align="center"><strong>Seraphim · AI · Machine Learning · AI Tooling</strong></p>
-<p align="center"><em>Life finds a way. So do models.</em></p>
+<h1 align="center">
+  <img src="assets/typing-banner.svg" alt="LLMs &amp; Agentic AI · RAG, Fine-tuning &amp; Evaluation · Building AI Tools · Life finds a way. So do models." width="640">
+</h1>
+<p align="center"><strong>Ziye Huang</strong> · also go by <strong>Seraphim</strong></p>
 
 <p align="center">
-  <a href="#-experience">Experience</a> ·
-  <a href="#-projects">Projects</a> ·
-  <a href="#-research">Research</a> ·
-  <a href="#-languages--tools">Languages &amp; Tools</a> ·
-  <a href="#-connect-with-me">Connect</a>
+  <a href="#focus">Focus</a> ·
+  <a href="#tools">LLMs &amp; Tools</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#education">Education</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#research">Research</a> ·
+  <a href="#connect">Connect</a>
 </p>
 
----
+<a id="focus"></a>
 
-## 🧠 Interests
+## 🔬 Current Focus
 
-> **AI & Machine Learning**<br>
-> Models, experiments, and figuring out what makes them work.
->
-> **AI Tooling**<br>
-> Building tools that make working with AI more useful—and more fun.
+- **LLMs & Agentic AI** — language models, agents, and AI-powered tools.
+- **RAG & Fine-tuning** — retrieval-augmented systems and adapting models with PEFT / LoRA.
+- **Evaluation & AI Infrastructure** — evaluating models and building the tooling around them.
 
-## 💼 Experience
+<a id="tools"></a>
 
-<blockquote>
+## 👨🏻‍💻 LLMs & Tools
+
+**LLM Applications & Inference**
+
+<p>
+  <img src="assets/badges/langchain.svg" alt="LangChain" title="LangChain" height="28">
+  <img src="assets/badges/llamaindex.svg" alt="LlamaIndex" title="LlamaIndex" height="28">
+  <img src="assets/badges/vllm.svg" alt="vLLM" title="vLLM" height="28">
+  <img src="assets/badges/ollama.svg" alt="Ollama" title="Ollama" height="28">
+  <img src="assets/badges/openai-api.svg" alt="OpenAI API" title="OpenAI API" height="28">
+  <img src="assets/badges/anthropic-api.svg" alt="Anthropic API" title="Anthropic API" height="28">
+</p>
+
+**Models & Training**
+
+<p>
+  <img src="assets/badges/pytorch.svg" alt="PyTorch" title="PyTorch" height="28">
+  <img src="assets/badges/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="28">
+  <img src="assets/badges/transformers.svg" alt="Transformers" title="Transformers" height="28">
+  <img src="assets/badges/scikit-learn.svg" alt="scikit-learn" title="scikit-learn" height="28">
+  <img src="assets/badges/jax.svg" alt="JAX" title="JAX" height="28">
+  <img src="assets/badges/deepspeed.svg" alt="DeepSpeed" title="DeepSpeed" height="28">
+  <img src="assets/badges/lightning.svg" alt="Lightning" title="Lightning" height="28">
+  <img src="assets/badges/peft---lora.svg" alt="PEFT / LoRA" title="PEFT / LoRA" height="28">
+</p>
+
+**Data, Experiments & Retrieval**
+
+<p>
+  <img src="assets/badges/numpy.svg" alt="NumPy" title="NumPy" height="28">
+  <img src="assets/badges/pandas.svg" alt="pandas" title="pandas" height="28">
+  <img src="assets/badges/jupyter.svg" alt="Jupyter" title="Jupyter" height="28">
+  <img src="assets/badges/mlflow.svg" alt="MLflow" title="MLflow" height="28">
+  <img src="assets/badges/weights---biases.svg" alt="Weights & Biases" title="Weights & Biases" height="28">
+  <img src="assets/badges/ray.svg" alt="Ray" title="Ray" height="28">
+  <img src="assets/badges/faiss.svg" alt="FAISS" title="FAISS" height="28">
+</p>
+
+**Languages**
+
+<p>
+  <img src="assets/badges/python.svg" alt="Python" title="Python" height="28">
+  <img src="assets/badges/java.svg" alt="Java" title="Java" height="28">
+  <img src="assets/badges/javascript.svg" alt="JavaScript" title="JavaScript" height="28">
+  <img src="assets/badges/go.svg" alt="Go" title="Go" height="28">
+  <img src="assets/badges/kotlin.svg" alt="Kotlin" title="Kotlin" height="28">
+</p>
+
+**Infrastructure & Frameworks**
+
+<p>
+  <img src="assets/badges/spark.svg" alt="Spark" title="Spark" height="28">
+  <img src="assets/badges/hadoop.svg" alt="Hadoop" title="Hadoop" height="28">
+  <img src="assets/badges/docker.svg" alt="Docker" title="Docker" height="28">
+  <img src="assets/badges/kubernetes.svg" alt="Kubernetes" title="Kubernetes" height="28">
+  <img src="assets/badges/flask.svg" alt="Flask" title="Flask" height="28">
+  <img src="assets/badges/spring.svg" alt="Spring" title="Spring" height="28">
+  <img src="assets/badges/node-js.svg" alt="Node.js" title="Node.js" height="28">
+  <img src="assets/badges/git.svg" alt="Git" title="Git" height="28">
+</p>
+
+<a id="experience"></a>
+
+## `>_` Experience
+
+<p>
+  <img align="left" src="assets/organizations/google.svg" alt="Google" width="44" height="44" hspace="12">
   <strong>Google</strong> · Software Intern<br>
   AI / Evaluation Infrastructure<br>
   <sub>Jun–Aug 2026 · Shanghai</sub>
-</blockquote>
+</p>
+<br clear="left">
 
-<blockquote>
+<p>
+  <img align="left" src="assets/organizations/stripe.svg" alt="Stripe" width="44" height="44" hspace="12">
   <strong>Stripe</strong> · Software Intern<br>
   Authorization Infrastructure<br>
   <sub>Jan–May 2026 · Seattle</sub>
-</blockquote>
+</p>
+<br clear="left">
 
-<blockquote>
+<p>
+  <img align="left" src="assets/organizations/apple.svg" alt="Apple" width="44" height="44" hspace="12">
   <strong>Apple</strong> · Machine Learning Engineer<br>
-  <sub>Jun–Sep 2025 · China</sub>
-</blockquote>
+  <sub>Jun–Sep 2025 · Beijing</sub>
+</p>
+<br clear="left">
 
-<blockquote>
+<p>
+  <img align="left" src="assets/organizations/luoshu.jpg" alt="Luoshu Investment" width="44" height="44" hspace="12">
   <strong>Luoshu Investment</strong> · Quant Developer<br>
   <sub>Jul–Oct 2023 · Shanghai</sub>
-</blockquote>
+</p>
+<br clear="left">
 
-<blockquote>
+<p>
+  <img align="left" src="assets/organizations/berkeley.svg" alt="UC Berkeley · CDAR Lab" width="44" height="44" hspace="12">
   <strong>UC Berkeley · CDAR Lab</strong> · Research Assistant<br>
   NLP<br>
-  <sub>2019–2020</sub>
-</blockquote>
+  <sub>2019–2020 · Berkeley</sub>
+</p>
+<br clear="left">
 
-## 🛠 Projects
+<a id="education"></a>
+
+## 🎓 Education
+
+**Northeastern University** · MS in Computer Science<br>
+<sub>2024–2026</sub>
+
+**Peking University, Guanghua School of Management** · MFE<br>
+<sub>2022–2024</sub>
+
+**UC Berkeley** · Exchange Student, EECS<br>
+<sub>2019–2020</sub>
+
+<a id="projects"></a>
+
+## 📚 Projects
+
 
 ### AI / ML / NLP
 
@@ -116,74 +208,19 @@
 
    </details>
 
-## 📄 Research
+<a id="research"></a>
+
+## 🔬 Research
+
 
 [Examining the Commitments and Difficulties Inherent in Multimodal Foundation Models for Street View Imagery](https://arxiv.org/abs/2408.12821)
 
-## 💻 Languages & Tools
+## ✨ Off the Keyboard
 
-**Languages**
-
-<p>
-  <img src="assets/badges/python.svg" alt="Python" title="Python" height="28">
-  <img src="assets/badges/java.svg" alt="Java" title="Java" height="28">
-  <img src="assets/badges/javascript.svg" alt="JavaScript" title="JavaScript" height="28">
-  <img src="assets/badges/go.svg" alt="Go" title="Go" height="28">
-  <img src="assets/badges/kotlin.svg" alt="Kotlin" title="Kotlin" height="28">
-</p>
-
-**Models & Training**
-
-<p>
-  <img src="assets/badges/pytorch.svg" alt="PyTorch" title="PyTorch" height="28">
-  <img src="assets/badges/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="28">
-  <img src="assets/badges/transformers.svg" alt="Transformers" title="Transformers" height="28">
-  <img src="assets/badges/scikit-learn.svg" alt="scikit-learn" title="scikit-learn" height="28">
-  <img src="assets/badges/jax.svg" alt="JAX" title="JAX" height="28">
-  <img src="assets/badges/deepspeed.svg" alt="DeepSpeed" title="DeepSpeed" height="28">
-  <img src="assets/badges/lightning.svg" alt="Lightning" title="Lightning" height="28">
-  <img src="assets/badges/peft---lora.svg" alt="PEFT / LoRA" title="PEFT / LoRA" height="28">
-</p>
-
-**LLM Applications & Inference**
-
-<p>
-  <img src="assets/badges/langchain.svg" alt="LangChain" title="LangChain" height="28">
-  <img src="assets/badges/llamaindex.svg" alt="LlamaIndex" title="LlamaIndex" height="28">
-  <img src="assets/badges/vllm.svg" alt="vLLM" title="vLLM" height="28">
-  <img src="assets/badges/ollama.svg" alt="Ollama" title="Ollama" height="28">
-  <img src="assets/badges/openai-api.svg" alt="OpenAI API" title="OpenAI API" height="28">
-  <img src="assets/badges/anthropic-api.svg" alt="Anthropic API" title="Anthropic API" height="28">
-</p>
-
-**Data, Experiments & Retrieval**
-
-<p>
-  <img src="assets/badges/numpy.svg" alt="NumPy" title="NumPy" height="28">
-  <img src="assets/badges/pandas.svg" alt="pandas" title="pandas" height="28">
-  <img src="assets/badges/jupyter.svg" alt="Jupyter" title="Jupyter" height="28">
-  <img src="assets/badges/mlflow.svg" alt="MLflow" title="MLflow" height="28">
-  <img src="assets/badges/weights---biases.svg" alt="Weights & Biases" title="Weights & Biases" height="28">
-  <img src="assets/badges/ray.svg" alt="Ray" title="Ray" height="28">
-  <img src="assets/badges/faiss.svg" alt="FAISS" title="FAISS" height="28">
-</p>
-
-**Infrastructure & Frameworks**
-
-<p>
-  <img src="assets/badges/spark.svg" alt="Spark" title="Spark" height="28">
-  <img src="assets/badges/hadoop.svg" alt="Hadoop" title="Hadoop" height="28">
-  <img src="assets/badges/docker.svg" alt="Docker" title="Docker" height="28">
-  <img src="assets/badges/kubernetes.svg" alt="Kubernetes" title="Kubernetes" height="28">
-  <img src="assets/badges/flask.svg" alt="Flask" title="Flask" height="28">
-  <img src="assets/badges/spring.svg" alt="Spring" title="Spring" height="28">
-  <img src="assets/badges/node-js.svg" alt="Node.js" title="Node.js" height="28">
-  <img src="assets/badges/git.svg" alt="Git" title="Git" height="28">
-</p>
-
-## 🧗 Off the Keyboard
 
 Currently into **bouldering**. Also a fan of cubes, badminton, and video games.
+
+<a id="connect"></a>
 
 ## 🤝 Connect with Me
 
