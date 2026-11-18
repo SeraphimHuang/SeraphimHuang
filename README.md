@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="assets/typing-banner.svg" alt="LLMs &amp; Agentic AI · RAG, Fine-tuning &amp; Evaluation · Building AI Tools · Life finds a way. So do models." width="640">
+  <img src="assets/typing-banner.svg" alt="MSCS @ Northeastern · MFE @ PKU | AI/ML Engineer · LLMs &amp; Agentic AI | Building AI Tools &amp; Evaluation Infra | Life finds a way. So do models." width="640">
 </h1>
-<p align="center"><strong>Ziye Huang</strong> · also go by <strong>Seraphim</strong></p>
 
 <p align="center">
   <a href="#focus">Focus</a> ·
@@ -122,7 +121,7 @@
   <img align="left" src="assets/organizations/berkeley-row.svg" alt="UC Berkeley · CDAR Lab" width="44" hspace="12">
   <strong>UC Berkeley · CDAR Lab</strong> · Research Assistant<br>
   NLP<br>
-  <sub>2019–2020 · Berkeley</sub>
+  <sub>Aug 2019–May 2020 · Berkeley</sub>
 </p>
 <br clear="left">
 
@@ -130,14 +129,29 @@
 
 ## 🎓 Education
 
-**Northeastern University** · MS in Computer Science<br>
-<sub>2024–2026</sub>
+<p>
+  <img align="left" src="assets/organizations/neu-row.svg" alt="Northeastern University" width="44" hspace="12">
+  <strong>Northeastern University</strong><br>
+  MS in Computer Science<br>
+  <sub>Sep 2024–Dec 2026</sub>
+</p>
+<br clear="left">
 
-**Peking University, Guanghua School of Management** · MFE<br>
-<sub>2022–2024</sub>
+<p>
+  <img align="left" src="assets/organizations/pku-row.svg" alt="Peking University" width="44" hspace="12">
+  <strong>Peking University</strong> · Guanghua School of Management<br>
+  MFE<br>
+  <sub>Sep 2022–Jun 2024</sub>
+</p>
+<br clear="left">
 
-**UC Berkeley** · Exchange Student, EECS<br>
-<sub>2019–2020</sub>
+<p>
+  <img align="left" src="assets/organizations/berkeley-row.svg" alt="UC Berkeley" width="44" hspace="12">
+  <strong>UC Berkeley</strong><br>
+  Exchange Student · EECS<br>
+  <sub>Aug 2019–May 2020</sub>
+</p>
+<br clear="left">
 
 <a id="projects"></a>
 
