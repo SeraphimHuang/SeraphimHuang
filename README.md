@@ -267,4 +267,3 @@ Currently into **bouldering**. Also a fan of cubes, badminton, and video games.
 <a href="XIAOHONGSHU_PROFILE_URL"><img src="assets/badges/xiaohongshu.svg" alt="Xiaohongshu" title="Xiaohongshu" height="28"></a>
 -->
 
-<p align="center"><img src="assets/footer.svg" alt="" width="100%"></p>
