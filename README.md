@@ -1,30 +1,43 @@
-## Hi, I'm Ziye (Seraphim) 👋
+<h1 align="center">Ziye Huang <sub> / Seraphim</sub></h1>
 
-I'm into AI, machine learning, and building the tools I wish already existed.
+<p align="center"><em>Life finds a way. So do models.</em></p>
 
-Lately, I've gotten into bouldering. Turns out I also enjoy getting stuck on problems away from my keyboard.
+<p align="center">
+  <strong>AI &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; AI Tooling</strong><br>
+  <a href="https://www.linkedin.com/in/ziyehuang/">LinkedIn ↗</a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/ziyehuang/)
+<br>
 
 ### Experience
 
-- **Google · Software Intern**<br>
-  AI / Evaluation Infrastructure · Shanghai<br>
-  Jun–Aug 2026
-
-- **Stripe · Software Intern**<br>
-  Authorization Infrastructure · Seattle<br>
-  Jan–May 2026
-
-- **Apple · Machine Learning Engineer**<br>
-  China · Jun–Sep 2025
-
-- **洛书投资 · Quant Developer**<br>
-  Shanghai · Jul–Oct 2023
-
-- **UC Berkeley, CDAR Lab · Research Assistant**<br>
-  NLP · 2019–2020
+<table width="100%">
+  <tr>
+    <td width="75%"><strong>Google</strong><br>Software Intern · AI / Evaluation Infrastructure</td>
+    <td align="right">Jun–Aug&nbsp;2026<br><sub>Shanghai</sub></td>
+  </tr>
+  <tr>
+    <td><strong>Stripe</strong><br>Software Intern · Authorization Infrastructure</td>
+    <td align="right">Jan–May&nbsp;2026<br><sub>Seattle</sub></td>
+  </tr>
+  <tr>
+    <td><strong>Apple</strong><br>Machine Learning Engineer</td>
+    <td align="right">Jun–Sep&nbsp;2025<br><sub>China</sub></td>
+  </tr>
+  <tr>
+    <td><strong>Luoshu Investment</strong><br>Quant Developer</td>
+    <td align="right">Jul–Oct&nbsp;2023<br><sub>Shanghai</sub></td>
+  </tr>
+  <tr>
+    <td><strong>UC Berkeley · CDAR Lab</strong><br>Research Assistant · NLP</td>
+    <td align="right">2019–2020</td>
+  </tr>
+</table>
 
 ### Research
 
 [Examining the Commitments and Difficulties Inherent in Multimodal Foundation Models for Street View Imagery](https://arxiv.org/abs/2408.12821)
+
+### Off the Keyboard
+
+Bouldering, cubes, badminton, and video games.
